@@ -2,5 +2,10 @@
 	"Name": "Yevhen",
 	"Age": 28,
 	"Number of pets": 2
-	"Salary": 5000
+	"Salary": 5000,
+	"Favorite movie": "Avatar",
+	"Favorite series": "Friends",
+	"Favorite food": "Pizza",
+	"Favorite time of the year": "Summer",
+	"Favorite country": "Ukraine"
 }
